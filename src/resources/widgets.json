@@ -1,0 +1,43 @@
+[
+  {
+    "id": 123,
+    "name": "",
+    "title": "Widget 1",
+    "type": "HEADING",
+    "text": "",
+    "size": 2,
+    "orderOfWidget": 1
+  },
+  {
+    "id": 234,
+    "name": "",
+    "title": "Widget 2",
+    "type": "IMAGE",
+    "orderOfWidget": 2,
+    "src": ""
+  },
+  {
+    "id": 345,
+    "title": "Widget 3",
+    "type": "LIST",
+    "orderOfWidget": 3,
+    "listItems": ""
+  },
+  {
+    "id": 456,
+    "name": "",
+    "title": "Widget 4",
+    "type": "PARAGRAPH",
+    "orderOfWidget": 4,
+    "text": ""
+  },
+  {
+    "id": 567,
+    "name": "",
+    "title": "Widget 2",
+    "type": "LINK",
+    "orderOfWidget": 5,
+    "text": "",
+    "href": ""
+  }
+]

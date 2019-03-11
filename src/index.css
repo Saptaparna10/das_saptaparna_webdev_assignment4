@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+
+.nav-pills li {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+.title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+  color: white;
+}
+
+.wbdv-lessons {
+  background-color: black;
+}
+
+.header {
+  background-color: dimgrey;
+}
+
+.longcol {
+  height: 100%;
+}
+
+.modulerow {
+  background-color: lightgray;
+}
+
+.widgetborder {
+  border-style: groove;
+  border-top:    1px solid dimgrey;
+  border-right:  1px solid dimgrey;
+  border-left: 1px solid dimgrey;
+  border-bottom: 0.5px solid lightgray;
+}
+
+@media (max-width:480px) {
+  .dropdown-menu {
+    width:90%;
+    white-space:normal;
+  }
+}
+
+.right {
+  text-align-all: end;
+  background-color: #61dafb;
+}
+
+.modules {
+  color: red
+}
+
+.logo {
+  color: white;
+  font-size: x-large;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+.wide-ddl {
+  width: 100%
+}
+
+.imageHeight {
+  height: 150px;
+}
